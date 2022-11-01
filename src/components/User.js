@@ -1,5 +1,14 @@
+import Wrapper from "../assets/wrappers/User";
+import Card from "./Card";
+
 const User = () => {
-  return <div>User</div>;
+  return (
+    <section className='section'>
+      <Wrapper>
+        <Card></Card>
+      </Wrapper>
+    </section>
+  );
 };
 
 export default User;

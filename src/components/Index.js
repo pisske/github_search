@@ -4,6 +4,6 @@ import Info from "./Info";
 import Repos from "./Repos";
 import Search from "./Search";
 import User from "./User";
-import Navbar from "./Navbar";
+import Card from "./Card";
 
-export { Error, Dashboard, User, Search, Repos, Info, Navbar };
+export { Error, Dashboard, User, Search, Repos, Info, Card };
